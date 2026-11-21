@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: angolan-restitution-roadmap-and-qsf-trust-execution
-  name: Angolan Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/angolan-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_ao_001
+    name: Angola Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_002
+    name: Angola Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_003
+    name: Angola Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_004
+    name: Angola Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_005
+    name: Angola Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_006
+    name: Angola Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_007
+    name: Angola Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_008
+    name: Angola Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_009
+    name: Angola Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_010
+    name: Angola Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_011
+    name: Angola Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_012
+    name: Angola Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_013
+    name: Angola Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_014
+    name: Angola Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_015
+    name: Angola Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_016
+    name: Angola Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_017
+    name: Angola Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_018
+    name: Angola Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_019
+    name: Angola Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_020
+    name: Angola Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_021
+    name: Angola Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_022
+    name: Angola Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_023
+    name: Angola Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_024
+    name: Angola Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_025
+    name: Angola Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_026
+    name: Angola Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_027
+    name: Angola Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_028
+    name: Angola Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_029
+    name: Angola Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_030
+    name: Angola Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_031
+    name: Angola Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_032
+    name: Angola Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_033
+    name: Angola Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_034
+    name: Angola Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_035
+    name: Angola Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_036
+    name: Angola Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_037
+    name: Angola Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_038
+    name: Angola Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_039
+    name: Angola Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_040
+    name: Angola Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_041
+    name: Angola Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_042
+    name: Angola Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_043
+    name: Angola Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_044
+    name: Angola Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_045
+    name: Angola Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_046
+    name: Angola Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_047
+    name: Angola Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_048
+    name: Angola Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_049
+    name: Angola Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_050
+    name: Angola Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_051
+    name: Angola Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_052
+    name: Angola Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_053
+    name: Angola Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_054
+    name: Angola Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_055
+    name: Angola Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_056
+    name: Angola Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_057
+    name: Angola Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_058
+    name: Angola Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_059
+    name: Angola Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_060
+    name: Angola Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_061
+    name: Angola Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_062
+    name: Angola Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_063
+    name: Angola Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_064
+    name: Angola Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_065
+    name: Angola Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_066
+    name: Angola Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_067
+    name: Angola Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_068
+    name: Angola Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_069
+    name: Angola Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_070
+    name: Angola Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_071
+    name: Angola Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_072
+    name: Angola Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_073
+    name: Angola Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_074
+    name: Angola Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_075
+    name: Angola Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_076
+    name: Angola Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_077
+    name: Angola Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_078
+    name: Angola Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_079
+    name: Angola Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_080
+    name: Angola Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_081
+    name: Angola Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_082
+    name: Angola Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_083
+    name: Angola Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_084
+    name: Angola Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_085
+    name: Angola Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_086
+    name: Angola Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_087
+    name: Angola Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_088
+    name: Angola Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_089
+    name: Angola Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_090
+    name: Angola Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_091
+    name: Angola Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_092
+    name: Angola Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_093
+    name: Angola Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_094
+    name: Angola Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_095
+    name: Angola Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_096
+    name: Angola Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_097
+    name: Angola Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_098
+    name: Angola Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_099
+    name: Angola Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_100
+    name: Angola Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_101
+    name: Angola Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_102
+    name: Angola Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_103
+    name: Angola Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_104
+    name: Angola Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_105
+    name: Angola Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_106
+    name: Angola Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_107
+    name: Angola Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_108
+    name: Angola Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_109
+    name: Angola Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_110
+    name: Angola Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_111
+    name: Angola Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_112
+    name: Angola Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_113
+    name: Angola Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_114
+    name: Angola Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_115
+    name: Angola Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_116
+    name: Angola Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_117
+    name: Angola Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_118
+    name: Angola Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_119
+    name: Angola Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_120
+    name: Angola Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_121
+    name: Angola Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_122
+    name: Angola Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_123
+    name: Angola Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_124
+    name: Angola Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_125
+    name: Angola Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_126
+    name: Angola Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_127
+    name: Angola Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_128
+    name: Angola Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_129
+    name: Angola Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_130
+    name: Angola Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_131
+    name: Angola Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_132
+    name: Angola Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_133
+    name: Angola Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_134
+    name: Angola Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_135
+    name: Angola Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_136
+    name: Angola Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_137
+    name: Angola Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_138
+    name: Angola Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_139
+    name: Angola Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_140
+    name: Angola Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_141
+    name: Angola Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_142
+    name: Angola Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_143
+    name: Angola Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_144
+    name: Angola Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_145
+    name: Angola Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_146
+    name: Angola Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_147
+    name: Angola Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_148
+    name: Angola Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_149
+    name: Angola Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_150
+    name: Angola Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_151
+    name: Angola Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_152
+    name: Angola Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_153
+    name: Angola Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_154
+    name: Angola Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_155
+    name: Angola Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_156
+    name: Angola Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_157
+    name: Angola Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_158
+    name: Angola Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_159
+    name: Angola Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_160
+    name: Angola Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_161
+    name: Angola Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_162
+    name: Angola Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_163
+    name: Angola Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_164
+    name: Angola Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_165
+    name: Angola Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_166
+    name: Angola Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_167
+    name: Angola Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_168
+    name: Angola Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_169
+    name: Angola Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_170
+    name: Angola Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_171
+    name: Angola Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_172
+    name: Angola Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_173
+    name: Angola Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_174
+    name: Angola Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_175
+    name: Angola Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_176
+    name: Angola Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_177
+    name: Angola Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_178
+    name: Angola Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_179
+    name: Angola Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_180
+    name: Angola Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_181
+    name: Angola Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_182
+    name: Angola Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_183
+    name: Angola Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_184
+    name: Angola Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_185
+    name: Angola Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_186
+    name: Angola Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_187
+    name: Angola Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_188
+    name: Angola Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_189
+    name: Angola Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_190
+    name: Angola Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_191
+    name: Angola Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_192
+    name: Angola Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_193
+    name: Angola Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_194
+    name: Angola Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_195
+    name: Angola Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_196
+    name: Angola Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_197
+    name: Angola Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_198
+    name: Angola Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_199
+    name: Angola Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_200
+    name: Angola Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_201
+    name: Angola Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_202
+    name: Angola Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_203
+    name: Angola Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_204
+    name: Angola Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_205
+    name: Angola Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_206
+    name: Angola Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_207
+    name: Angola Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_208
+    name: Angola Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_209
+    name: Angola Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_210
+    name: Angola Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_211
+    name: Angola Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_212
+    name: Angola Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_213
+    name: Angola Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_214
+    name: Angola Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_215
+    name: Angola Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_216
+    name: Angola Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_217
+    name: Angola Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_218
+    name: Angola Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_219
+    name: Angola Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_220
+    name: Angola Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_221
+    name: Angola Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_222
+    name: Angola Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_223
+    name: Angola Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_224
+    name: Angola Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_225
+    name: Angola Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_226
+    name: Angola Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_227
+    name: Angola Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_228
+    name: Angola Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_229
+    name: Angola Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_230
+    name: Angola Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_231
+    name: Angola Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_232
+    name: Angola Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_233
+    name: Angola Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_234
+    name: Angola Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_235
+    name: Angola Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_236
+    name: Angola Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_237
+    name: Angola Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_238
+    name: Angola Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_239
+    name: Angola Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_240
+    name: Angola Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_241
+    name: Angola Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_242
+    name: Angola Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_243
+    name: Angola Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_244
+    name: Angola Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_245
+    name: Angola Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_246
+    name: Angola Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_247
+    name: Angola Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_248
+    name: Angola Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_249
+    name: Angola Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_250
+    name: Angola Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_251
+    name: Angola Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ao_252
+    name: Angola Skill 252
+    status: ACTIVE_SCAFFOLD
