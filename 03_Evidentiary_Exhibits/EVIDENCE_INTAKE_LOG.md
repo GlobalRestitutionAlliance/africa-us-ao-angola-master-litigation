@@ -16,6 +16,25 @@
 | 2026-11-21 | AO_11_ICJ_Cases.html | https://www.icj-cij.org/cases | OpenCode/harvest_public_sources.py | c66ffe4b81a51b59d14e73af2f122066427f895cede793d1e45df84348663107 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200; ct=text/html; charset=utf-8; bytes=62604; final=https://www.icj-cij.org/cases |
 | 2026-11-21 | AO_12_African_Commission_on_Human_and_Peoples_Rights.html | https://achpr.au.int/ | OpenCode/harvest_public_sources.py | 3673be7af120fe758290615993db4967bb0dd8ea629ce49bc86a4dc9cea0bc25 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200; ct=text/html; charset=UTF-8; bytes=194228; final=https://achpr.au.int/ |
 
+| 2026-11-22 | UN OHCHR - Country Page | https://www.ohchr.org/en/countries | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | UN Human Rights Council - UPR | https://www.ohchr.org/en/hr-bodies/upr/upr-home | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | CIA FOIA Reading Room | https://www.cia.gov/reading-room/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 404: Not Found |
+| 2026-11-22 | World Bank Country Data | https://data.worldbank.org/country | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | US_National_Archives.html | https://www.archives.gov/ | OpenCode/harvest | b1be5889069b829d9a2e1f7c05017dd31c0dca382d1e3b3a18d7ef8b6bc77893 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=29358 |
+| 2026-11-22 | Library_of_Congress.html | https://www.loc.gov/ | OpenCode/harvest | 954e885a8a94a297bfad4f39decbc776a07bbec9253527ed3295f17931b3652b | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=75819 |
+| 2026-11-22 | Chronicling America (LOC Newspapers) | https://chroniclingamerica.loc.gov/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | HathiTrust Digital Library | https://www.hathitrust.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | Internet_Archive.html | https://archive.org/ | OpenCode/harvest | 329de0d85f6904215feec653c153fdc1f7f8807e3bfaedb8c05542fcf3c2419f | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=2046 |
+| 2026-11-22 | FOIA.gov.html | https://www.foia.gov/ | OpenCode/harvest | 31e6892ff69ad6f2329c9b325b76fb223c501f9d47d90f8f0a8490e461fbe724 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=28089 |
+| 2026-11-22 | NARA_FOIA.html | https://www.archives.gov/foia | OpenCode/harvest | 10a153c64fe2af1e0ff231a21507c4f5d0ee75706dff0532d5dd63839c47fe66 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=41023 |
+| 2026-11-22 | UN Digital Library | https://digitallibrary.un.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | UN OHCHR | https://www.ohchr.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | CourtListener | https://www.courtlistener.com/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | Justia | https://www.justia.com/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | WorldCat.html | https://search.worldcat.org/ | OpenCode/harvest | 926a04e072a7ff45f31e8c3e8075f1c1170579802adb9261ccd297239cce5c96 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=460996 |
+| 2026-11-22 | Wikisource.html | https://en.wikisource.org/ | OpenCode/harvest | f1f02568e88c7f7327e2592f2cd8064cc67353af713a715cbfe36eaa2f0fe50a | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=131944 |
+| 2026-11-22 | US_Govt_Publishing_Office.html | https://www.govinfo.gov/ | OpenCode/harvest | 2afbc7eda2fb8bd786e4fa221fcfb9740604902b8a053e61d9d36a20f20993b7 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=65676 |
+
 ## Intake Rules
 - Record source URL, access date, downloader, file hash, and storage path.
 - No authenticated claim without custodian/legal review.
