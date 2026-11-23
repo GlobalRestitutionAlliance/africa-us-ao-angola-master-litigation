@@ -1,0 +1,15 @@
+{
+  "url": "https://data.worldbank.org/country/angola",
+  "final_url": "https://data.worldbank.org/country/angola",
+  "title": "World Bank Angola",
+  "fetched_at": "2026-11-23T01:27:58.527154Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 3424,
+  "sha256": "4c46b6612c35df908c638a78d75603d5a1ba50da5cfe552bcd9a0b2426b50b1c",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "status_note": "Browser fallback capture; public/unauthenticated; content may be landing/404/challenge page; not verified."
+}

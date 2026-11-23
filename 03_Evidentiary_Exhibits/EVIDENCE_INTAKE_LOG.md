@@ -35,6 +35,24 @@
 | 2026-11-22 | Wikisource.html | https://en.wikisource.org/ | OpenCode/harvest | f1f02568e88c7f7327e2592f2cd8064cc67353af713a715cbfe36eaa2f0fe50a | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=131944 |
 | 2026-11-22 | US_Govt_Publishing_Office.html | https://www.govinfo.gov/ | OpenCode/harvest | 2afbc7eda2fb8bd786e4fa221fcfb9740604902b8a053e61d9d36a20f20993b7 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=65676 |
 
+| 2026-11-22 | UN_OHCHR_Angola_browser.html | https://www.ohchr.org/en/countries/angola | OpenCode/browser-fallback | 7e6460f657455bb2ef311c43d1ddd2448c0099e78e1b341f02af4012ea5fe8e5 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
+
+| 2026-11-22 | UN_Digital_Library_browser.html | https://digitallibrary.un.org/ | OpenCode/browser-fallback | 630526479d94fee99f80654e69d584582c8107033e4970c01e84c70583c37989 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
+
+| 2026-11-22 | Library_of_Congress_-_Angola_browser.html | https://www.loc.gov/item/?q=angola+slavery | OpenCode/browser-fallback | 0fffc9ba8390c04e2c540d7af51a3a8dd85271e543fb0b29df98f8a1aa5a35c8 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
+
+| 2026-11-22 | HathiTrust_Digital_Library_browser.html | https://babel.hathitrust.org/ | OpenCode/browser-fallback | 7ed7b6c22a27d2619b54609a0f2ea53976e44ebef6f4ed74cf802b56d1b31c35 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
+
+| 2026-11-22 | Chronicling_America_LOC_browser.html | https://chroniclingamerica.loc.gov/ | OpenCode/browser-fallback | 278136037714ce8fdd265e34218ee915842e5e47a44dd74f1aabf198ff14d2bd | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
+
+| 2026-11-22 | World_Bank_Angola_browser.html | https://data.worldbank.org/country/angola | OpenCode/browser-fallback | 4c46b6612c35df908c638a78d75603d5a1ba50da5cfe552bcd9a0b2426b50b1c | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
+
+| 2026-11-22 | UNESCO_Slave_Route_browser.html | https://www.unesco.org/en/routes-enslaved-peoples | OpenCode/browser-fallback | 86fa38ae1c1d11e890e66b5020368e2f8b6a70c819edfdc4bc5657652012bde1 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
+
+| 2026-11-22 | Justia_browser.html | https://www.justia.com/ | OpenCode/browser-fallback | c18c7cbdb3e25684176911dd379dcf824ae4637a2fe64961afb2d9054f6bfb89 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
+
+| 2026-11-22 | CourtListener_browser.html | https://www.courtlistener.com/ | OpenCode/browser-fallback | 54b1f50a95a8caf76faa1bd638ee797ed8d0b32d40daed1d453878669b5d530c | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
+
 ## Intake Rules
 - Record source URL, access date, downloader, file hash, and storage path.
 - No authenticated claim without custodian/legal review.

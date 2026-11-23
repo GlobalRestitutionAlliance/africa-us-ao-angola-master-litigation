@@ -1,0 +1,15 @@
+{
+  "url": "https://www.ohchr.org/en/countries/angola",
+  "final_url": "https://www.ohchr.org/en/countries/angola",
+  "title": "UN OHCHR Angola",
+  "fetched_at": "2026-11-23T01:27:58.522643Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 60020,
+  "sha256": "7e6460f657455bb2ef311c43d1ddd2448c0099e78e1b341f02af4012ea5fe8e5",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "status_note": "Browser fallback capture; public/unauthenticated; content may be landing/404/challenge page; not verified."
+}
